@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[
+Countdown working!]]>
+    </line>
+    <line>
+      <![CDATA[
+Countdown finished successfully!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-07-15T19:30:21 IST" name="Suite" finished-at="2021-07-15T19:30:53 IST" duration-ms="31320">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T19:30:21 IST" name="Test" finished-at="2021-07-15T19:30:53 IST" duration-ms="31320">
+      <class name="com.maersk.automationTimer.testing.GGtimerTest">
+        <test-method signature="timerTest()[pri:0, instance:com.maersk.automationTimer.testing.GGtimerTest@2fd1433e]" started-at="2021-07-15T19:30:21 IST" name="timerTest" finished-at="2021-07-15T19:30:53 IST" duration-ms="31267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[
+Countdown working!]]>
+            </line>
+            <line>
+              <![CDATA[
+Countdown finished successfully!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- timerTest -->
+      </class> <!-- com.maersk.automationTimer.testing.GGtimerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
