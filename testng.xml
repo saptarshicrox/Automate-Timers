@@ -5,7 +5,7 @@
 		  
 		
 		  
-		<class name="com.maersk.automationTimer.testing.GGtimerTest" />
+		<class name="testing.com.Automate.automationTimer.GGtimerTest" />
 
 	    
 			

@@ -1,4 +1,4 @@
-package com.maersk.automationTimer.utility;
+package com.Automate.automationTimer.utility;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

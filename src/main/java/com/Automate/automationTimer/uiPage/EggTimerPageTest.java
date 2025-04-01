@@ -1,4 +1,4 @@
-package com.maersk.automationTimer.uiPage;
+package com.Automate.automationTimer.uiPage;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,8 +10,8 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.Reporter;
 
-import com.maersk.automationTimer.utility.BasePage;
-import com.maersk.automationTimer.utility.StopWatch;
+import com.Automate.automationTimer.utility.BasePage;
+import com.Automate.automationTimer.utility.StopWatch;
 
 
 

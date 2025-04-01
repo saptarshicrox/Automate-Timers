@@ -3,11 +3,11 @@
 <suite name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.maersk.automationTimer.testing.GGtimerTest">
+      <class name="testing.com.Automate.automationTimer.GGtimerTest">
         <methods>
           <include name="timerTest"/>
         </methods>
-      </class> <!-- com.maersk.automationTimer.testing.GGtimerTest -->
+      </class> <!-- testing.com.Automate.automationTimer.GGtimerTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

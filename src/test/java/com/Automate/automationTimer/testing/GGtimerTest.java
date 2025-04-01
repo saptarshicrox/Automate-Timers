@@ -1,10 +1,10 @@
-package com.maersk.automationTimer.testing;
+package com.Automate.automationTimer.testing;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-import com.maersk.automationTimer.uiPage.EggTimerPageTest;
-import com.maersk.automationTimer.utility.BasePage;
+import com.Automate.automationTimer.uiPage.EggTimerPageTest;
+import com.Automate.automationTimer.utility.BasePage;
 
 
 public class GGtimerTest {

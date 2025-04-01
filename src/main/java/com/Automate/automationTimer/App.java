@@ -1,4 +1,4 @@
-package com.maersk.automationTimer;
+package com.Automate.automationTimer;
 
 public class App {
 

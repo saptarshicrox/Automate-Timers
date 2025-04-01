@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.maersk.automationTimer.testing.GGtimerTest">
+      <class name="testing.com.Automate.automationTimer.GGtimerTest">
         <methods>
           <include name="timerTest"/>
         </methods>
-      </class> <!-- com.maersk.automationTimer.testing.GGtimerTest -->
+      </class> <!-- testing.com.Automate.automationTimer.GGtimerTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,4 +1,4 @@
-package com.maersk.automationTimer.utility;
+package com.Automate.automationTimer.utility;
 
 import java.util.Timer;
 import java.util.TimerTask;

@@ -1,4 +1,4 @@
-package com.maersk.automationTimer.testing;
+package com.Automate.automationTimer.testing;
 
 import org.testng.annotations.Test;
 

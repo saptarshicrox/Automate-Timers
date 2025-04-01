@@ -14,8 +14,8 @@ Countdown finished successfully!]]>
     <groups>
     </groups>
     <test started-at="2021-07-15T19:30:21 IST" name="Test" finished-at="2021-07-15T19:30:53 IST" duration-ms="31320">
-      <class name="com.maersk.automationTimer.testing.GGtimerTest">
-        <test-method signature="timerTest()[pri:0, instance:com.maersk.automationTimer.testing.GGtimerTest@2fd1433e]" started-at="2021-07-15T19:30:21 IST" name="timerTest" finished-at="2021-07-15T19:30:53 IST" duration-ms="31267" status="PASS">
+      <class name="testing.com.Automate.automationTimer.GGtimerTest">
+        <test-method signature="timerTest()[pri:0, instance:testing.com.Automate.automationTimer.GGtimerTest@2fd1433e]" started-at="2021-07-15T19:30:21 IST" name="timerTest" finished-at="2021-07-15T19:30:53 IST" duration-ms="31267" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[
@@ -27,7 +27,7 @@ Countdown finished successfully!]]>
             </line>
           </reporter-output>
         </test-method> <!-- timerTest -->
-      </class> <!-- com.maersk.automationTimer.testing.GGtimerTest -->
+      </class> <!-- testing.com.Automate.automationTimer.GGtimerTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
